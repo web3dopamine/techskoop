@@ -2748,7 +2748,7 @@ textarea {
 
 .logo {
     --logo-max-width: 133px;
-    --logo-max-height: 36px;
+    --logo-max-height: 50px;
     display: inline-flex;
     text-decoration: none;
 }
